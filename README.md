@@ -20,7 +20,7 @@ Developed a basic HTML webpage comparing common pets (Dogs, Birds, and Cats). Th
 
 ## Screenshots
 
-![Main Page Screenshot](Screenshot1.png)
+![Main Page Screenshot](sample1.png)
 ## Skills
 
 - HTML
